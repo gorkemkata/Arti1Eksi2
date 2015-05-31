@@ -19,4 +19,4 @@ TODO List:
 
 Screenshot:
 
-![alt tag](http://i.imgur.com/4QnYLMd.png
+http://i.imgur.com/4QnYLMd.png
